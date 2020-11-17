@@ -1,0 +1,12 @@
+D:\C#\StresserClient\StresserClient\bin\Debug\StresserClient.exe.config
+D:\C#\StresserClient\StresserClient\bin\Debug\StresserClient.exe
+D:\C#\StresserClient\StresserClient\bin\Debug\StresserClient.pdb
+D:\C#\StresserClient\StresserClient\obj\Debug\StresserClient.csprojAssemblyReference.cache
+D:\C#\StresserClient\StresserClient\obj\Debug\StresserClient.Properties.Resources.resources
+D:\C#\StresserClient\StresserClient\obj\Debug\StresserClient.csproj.GenerateResource.cache
+D:\C#\StresserClient\StresserClient\obj\Debug\StresserClient.csproj.CoreCompileInputs.cache
+D:\C#\StresserClient\StresserClient\obj\Debug\StresserClient.exe
+D:\C#\StresserClient\StresserClient\obj\Debug\StresserClient.pdb
+D:\C#\StresserClient\StresserClient\obj\Debug\StresserClient.StresserClient.resources
+D:\C#\StresserClient\StresserClient\bin\Debug\Tulpep.NotificationWindow.dll
+D:\C#\StresserClient\StresserClient\obj\Debug\StresserClient.csproj.CopyComplete
