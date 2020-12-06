@@ -23,7 +23,7 @@ namespace StresserClient
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new StresserClient());
 
-            Client client = new Client("76.93.145.158", 80);
+            //Client client = new Client("76.93.145.158", 80);
 
             //for (int i = 0; i<500; i++)
             //{

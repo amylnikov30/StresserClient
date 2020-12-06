@@ -34,7 +34,7 @@ namespace StresserClient
 
         private void Attack_Click(object sender, EventArgs e)
         {
-            client = new Client(IP.Text, int.Parse(Port.Text));
+            client = new Client(IP.Text, (int)long.Parse(Port.Text));
             client.Attack(threads);
 
             PopupNotifier attackConfirmation = new PopupNotifier();
@@ -55,7 +55,10 @@ namespace StresserClient
 
         private void ThreadCount_TextChanged(object sender, EventArgs e)
         {
-            threads = int.Parse(ThreadCount.Text);
+            if (ThreadCount.Text != "")
+            {
+                threads = int.Parse(ThreadCount.Text);
+            }
         }
     }
 }
